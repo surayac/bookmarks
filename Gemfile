@@ -49,5 +49,5 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 end
 
-gem "sorbet", "~> 0.6.13023"
+gem "sorbet", "~> 0.6.13066"
 gem "sorbet-runtime", "~> 0.6.13023"
