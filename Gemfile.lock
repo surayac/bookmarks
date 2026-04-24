@@ -320,7 +320,7 @@ GEM
       thor (>= 1.3.1)
     sorbet (0.6.13023)
       sorbet-static (= 0.6.13023)
-    sorbet-runtime (0.6.13023)
+    sorbet-runtime (0.6.13160)
     sorbet-static (0.6.13023-aarch64-linux)
     sorbet-static (0.6.13023-universal-darwin)
     sorbet-static (0.6.13023-x86_64-linux)
@@ -380,7 +380,7 @@ DEPENDENCIES
   solid_cache
   solid_queue
   sorbet (~> 0.6.13023)
-  sorbet-runtime (~> 0.6.13023)
+  sorbet-runtime (~> 0.6.13160)
   thruster
   tzinfo-data
 
@@ -506,7 +506,7 @@ CHECKSUMS
   solid_cache (1.0.10) sha256=bc05a2fb3ac78a6f43cbb5946679cf9db67dd30d22939ededc385cb93e120d41
   solid_queue (1.3.2) sha256=44a53047be4255f616ff13fa5d35980e7b3eee6e31d957eadb88fbe8e0db4509
   sorbet (0.6.13023) sha256=20a7e3982894a9b95ca4e117c01a4d8754617c4e20670c632578d2d8df97d69d
-  sorbet-runtime (0.6.13023) sha256=c00d11cc54951efbc0aece994dd6b20b1d1cb2a2606100c24d4ae7f840383073
+  sorbet-runtime (0.6.13160) sha256=1e6ec74f5e6aba8ae15de8bbd5ba328186600074d6dc87d73cd1d6aeb00801ca
   sorbet-static (0.6.13023-aarch64-linux) sha256=d6ca8bc38bcdd0c1ea5f8e921ddbf7fcf5d78d0ad6e763a2feab88df9916dc60
   sorbet-static (0.6.13023-universal-darwin) sha256=2a60d3bbf85cc515c35d70803630ad519a5514afdc0d2042a70fe46751d7c90c
   sorbet-static (0.6.13023-x86_64-linux) sha256=9531f44b90b2515598a53131dd621845f027e641ed20bbfee1a50aabd5e5079a
