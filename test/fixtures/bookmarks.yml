@@ -1,11 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  url: MyString
+  title: OpenAI
+  url: https://openai.com
   favorite: false
 
 two:
-  title: MyString
-  url: MyString
-  favorite: false
+  title: Ruby on Rails
+  url: https://rubyonrails.org
+  favorite: true
