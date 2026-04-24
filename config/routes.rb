@@ -1,5 +1,5 @@
 
 Rails.application.routes.draw do
-  root 'bookmarks#index'
+  root "bookmarks#index"
   resources :bookmarks
 end

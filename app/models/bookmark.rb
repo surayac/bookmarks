@@ -1,5 +1,5 @@
-
 # typed: strict
+
 class Bookmark < ApplicationRecord
   extend T::Sig
 
