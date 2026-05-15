@@ -320,7 +320,7 @@ GEM
       thor (>= 1.3.1)
     sorbet (0.6.13023)
       sorbet-static (= 0.6.13023)
-    sorbet-runtime (0.6.13023)
+    sorbet-runtime (0.6.13221)
     sorbet-static (0.6.13023-aarch64-linux)
     sorbet-static (0.6.13023-universal-darwin)
     sorbet-static (0.6.13023-x86_64-linux)
@@ -380,7 +380,7 @@ DEPENDENCIES
   solid_cache
   solid_queue
   sorbet (~> 0.6.13023)
-  sorbet-runtime (~> 0.6.13023)
+  sorbet-runtime (~> 0.6.13221)
   thruster
   tzinfo-data
 
@@ -407,6 +407,7 @@ CHECKSUMS
   bootsnap (1.23.0) sha256=c1254f458d58558b58be0f8eb8f6eec2821456785b7cdd1e16248e2020d3f214
   brakeman (8.0.4) sha256=7bf921fa9638544835df9aa7b3e720a9a72c0267f34f92135955edd80d4dcf6f
   builder (3.3.0) sha256=497918d2f9dca528fdca4b88d84e4ef4387256d984b8154e9d5d3fe5a9c8835f
+  bundler (4.0.11) sha256=5bcec0fb78302e48d02ee46f10ee6e6942be647ba5b44a6d1ddfda9a240ce785
   bundler-audit (0.9.3) sha256=81c8766c71e47d0d28a0f98c7eed028539f21a6ea3cd8f685eb6f42333c9b4e9
   concurrent-ruby (1.3.6) sha256=6b56837e1e7e5292f9864f34b69c5a2cbc75c0cf5338f1ce9903d10fa762d5ab
   connection_pool (3.0.2) sha256=33fff5ba71a12d2aa26cb72b1db8bba2a1a01823559fb01d29eb74c286e62e0a
@@ -506,7 +507,7 @@ CHECKSUMS
   solid_cache (1.0.10) sha256=bc05a2fb3ac78a6f43cbb5946679cf9db67dd30d22939ededc385cb93e120d41
   solid_queue (1.3.2) sha256=44a53047be4255f616ff13fa5d35980e7b3eee6e31d957eadb88fbe8e0db4509
   sorbet (0.6.13023) sha256=20a7e3982894a9b95ca4e117c01a4d8754617c4e20670c632578d2d8df97d69d
-  sorbet-runtime (0.6.13023) sha256=c00d11cc54951efbc0aece994dd6b20b1d1cb2a2606100c24d4ae7f840383073
+  sorbet-runtime (0.6.13221) sha256=3e8a70734802ba52003c7b7c6451b69acbb43761b74f5c8c1d87e20340656687
   sorbet-static (0.6.13023-aarch64-linux) sha256=d6ca8bc38bcdd0c1ea5f8e921ddbf7fcf5d78d0ad6e763a2feab88df9916dc60
   sorbet-static (0.6.13023-universal-darwin) sha256=2a60d3bbf85cc515c35d70803630ad519a5514afdc0d2042a70fe46751d7c90c
   sorbet-static (0.6.13023-x86_64-linux) sha256=9531f44b90b2515598a53131dd621845f027e641ed20bbfee1a50aabd5e5079a
